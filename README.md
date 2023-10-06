@@ -1,2 +1,2 @@
 # MiniGolfVR
-creation d'un mini golf en réalité virtuel
+Création d'un mini golf en réalité virtuel
